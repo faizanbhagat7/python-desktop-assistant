@@ -32,9 +32,9 @@ Here are some examples of commands that you can give to the assistant:
 👉 "rename a file"<br/>
 
 <h2>preview</h2>
+<img src="https://user-images.githubusercontent.com/100670861/221594406-ee72ba6c-04a7-41f1-8296-c5ef2f729df2.png"/>
 <img src="https://user-images.githubusercontent.com/100670861/221593491-0bdd6898-1baf-4229-839f-17ba1f650f86.png"/>
 <img src="https://user-images.githubusercontent.com/100670861/221594195-ff5eb82c-2cd6-436a-b816-8047059fc3d3.png"/>
-<img src="https://user-images.githubusercontent.com/100670861/221594406-ee72ba6c-04a7-41f1-8296-c5ef2f729df2.png"/>
 <img src="https://user-images.githubusercontent.com/100670861/221594590-5fa4bcae-9e1b-46e3-b9f5-13f9dffb4833.png"/>
 <img src="https://user-images.githubusercontent.com/100670861/221594706-7861f880-8cd2-4aa4-9870-11853a6ce1ca.png"/>
 
