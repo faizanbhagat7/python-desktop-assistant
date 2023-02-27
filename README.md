@@ -1,30 +1,22 @@
-# python-desktop-assistant
-Python Desktop Assistant
-This is a Python desktop assistant designed to assist you with your daily tasks. The assistant is capable of performing a variety of tasks such as sending emails, opening applications, searching the web, and much more!
-<br/><br/>
-Features
-Send emails using SMTP protocol
-Open applications installed on your computer
-Search the web using your default web browser
-Play music using your default music player
-Take screenshots of your computer
-Retrieve weather information for any city in the world
-Requirements
-Python 3.x
-Required Python packages: smtplib, ssl, os, time, webbrowser, pyautogui, requests, json
-Installation
-Clone this repository using the following command:
-bash
-Copy code
-git clone https://github.com/yourusername/python-desktop-assistant.git
-Install the required packages using the following command:
-Copy code
-pip install -r requirements.txt
-Run the program using the following command:
-Copy code
-python assistant.py
-Usage
-The assistant can be launched by running the assistant.py file. The assistant will greet you and wait for your command. You can give commands using your voice or by typing them in the console.
+<h3>This is a Python desktop assistant designed to assist you with your daily tasks.<br/>
+The assistant is capable of performing a variety of tasks such as Telling time, opening youtube, searching the web, and much more!</h3>
+
+<h2>Features</h2>
+<h5>
+👉 Tells real time<br/>
+👉 Search for queries on web<br/>
+👉 Opens Youtube<br/>
+👉 Searches on youtube<br/>
+👉 Download Youtube Video<br/>
+👉 Performs file operations like create, rename and delete<br/>
+</h5>
+  
+<h2>Requirements</h2>
+👉 python 3.0<br/>
+👉 Required Python packages: smtplib, ssl, os, time, webbrowser, pyautogui, requests, pytube, wolframalpha <br/>
+
+<h2>Usage</h2>
+The assistant can be launched by running the ghost.py. The assistant will greet you and wait for your command. You can give commands using your voice.
 
 Here are some examples of commands that you can give to the assistant:
 
