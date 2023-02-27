@@ -21,18 +21,18 @@ The assistant is capable of performing a variety of tasks such as Telling time, 
 The assistant can be launched by running the ghost.py. The assistant will greet you and wait for your command. You can give commands using your voice.
 Here are some examples of commands that you can give to the assistant:
 
-👉 "Tell me the time"
-👉 "Open Youtube"
-👉 "Search for cats on YouTube"
-👉 "Download this video"
-👉 "Search for machine learning"
-👉 "What's the temperature in London?"
-👉 "Create a file"
-👉 "delete a file"
-👉 "rename a file"
+👉 "Tell me the time" <br/>
+👉 "Open Youtube"<br/>
+👉 "Search for cats on YouTube"<br/>
+👉 "Download this video"<br/>
+👉 "Search for machine learning"<br/>
+👉 "What's the temperature in London?"<br/>
+👉 "Create a file"<br/>
+👉 "delete a file"<br/>
+👉 "rename a file"<br/>
 
 <h2>preview</h2>
-![Screenshot (150)](https://user-images.githubusercontent.com/100670861/221593491-0bdd6898-1baf-4229-839f-17ba1f650f86.png)
+[Screenshot (150)](https://user-images.githubusercontent.com/100670861/221593491-0bdd6898-1baf-4229-839f-17ba1f650f86.png)
 
 
 <h2>Contributing</h2>
